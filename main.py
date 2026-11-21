@@ -385,8 +385,8 @@ def test_all_autopoison_safety(strength=0.75, scaler=1.0, layer_study=None):
 # =============================================================================
 
 all_typical_models = [
-    ("./Llama-2-7b-HSI-Backdoored", None, 0.75),
-    ("./Llama-2-7b-CI-Backdoored", None, 0.75),
+    ("mqzlf/Llama-2-7b-HSI-Backdoored", None, 0.75),
+    ("mqzlf/Llama-2-7b-CI-Backdoored", None, 0.75),
 ]
 
 all_autopoison_models = [

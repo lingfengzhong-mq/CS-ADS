@@ -36,7 +36,7 @@ from eval import cs_ads_infer
 # Default configuration
 # ======================================================================
 
-DEFAULT_MODEL = "./Llama-2-7b-HSI-Backdoored"
+DEFAULT_MODEL = "mqzlf//Llama-2-7b-CI-Backdoored"
 
 DEFAULT_INSTRUCTION = (
     "Come up with three creative ways to encourage people to buy "
